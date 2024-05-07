@@ -1,0 +1,14 @@
+	body {
+    font-size: small;
+    font-family: arial, sans-serif;
+	}
+	h1 {
+		font-size: 17px;
+	}
+	.search {
+		font-size: small;
+	}
+	a {
+		font-size: small;
+		color: blue;
+	}
